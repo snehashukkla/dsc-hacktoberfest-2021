@@ -2,7 +2,7 @@
 Repository designed for beginner to contribute to open-source 
 
 https://hacktoberfest.digitalocean.com/
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fhacktoberfest.digitalocean.com%2F&psig=AOvVaw3M41cmzuFweOXZpwbidLRI&ust=1632844850438000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCkiJ_Dn_MCFQAAAAAdAAAAABAK
+
 
 ## How to contribute
 Submit your pull request here for Hacktoberfest-2020 in any language you prefer, if language folder not present, create one as a part of it, after script add your name and GitHub profile into Contributors.md file.
@@ -10,6 +10,7 @@ Submit your pull request here for Hacktoberfest-2020 in any language you prefer,
 Hacktoberfest is a month long virtual festival event to celebrate open source contributions presented by DigitalOcean and DEV. It is the easiest way to get into open source!
 
 ![image here](https://github.com/sujata13/HacktoberFest-2020/blob/master/hacktober.png)
+![Capture](https://user-images.githubusercontent.com/55937303/134947263-53b4184a-1090-4fd7-89c4-865952353d06.PNG)
 
 # Event details
 Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
