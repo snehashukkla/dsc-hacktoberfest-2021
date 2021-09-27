@@ -2,6 +2,7 @@
 Repository designed for beginner to contribute to open-source 
 
 https://hacktoberfest.digitalocean.com/
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fhacktoberfest.digitalocean.com%2F&psig=AOvVaw3M41cmzuFweOXZpwbidLRI&ust=1632844850438000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCkiJ_Dn_MCFQAAAAAdAAAAABAK
 
 ## How to contribute
 Submit your pull request here for Hacktoberfest-2020 in any language you prefer, if language folder not present, create one as a part of it, after script add your name and GitHub profile into Contributors.md file.
