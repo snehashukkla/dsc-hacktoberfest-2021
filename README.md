@@ -42,7 +42,6 @@ Check [Contribution](/CONTRIBUTION.md) Guide Before Contribution.
 ###### Link to register: https://hacktoberfest.digitalocean.com/
 Click on "Start Hacking" and add your GitHub account.
 
-![Screenshot-HFST](https://github.com/bajajvinamr/HacktoberFest2020/blob/master/1.png)
 
 
 
