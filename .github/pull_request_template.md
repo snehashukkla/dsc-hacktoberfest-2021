@@ -18,7 +18,7 @@ paste_your_code_here
 
 ![Screenshot not visible](  < screenshot link >  )
 
-# Checklist:
+### Checklist:
 Please tick all the boxes that are fulfilled by your Pull Request.
 
 - [ ] I have named my files and folder, according to this project's guidelines.
