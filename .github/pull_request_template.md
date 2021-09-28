@@ -16,7 +16,9 @@ paste_your_code_here
 ### Screenshot
 > image should show successful working of test cases either on terminal or website like LeetCode, GeeksForGeeks after submitting
 
-![Screenshot not visible](  < screenshot link >  )
+![Screenshot not visible](  <screenshot link>  )
+
+To get a screenshot link, upload your screenshot to [postimage](https://postimages.org/) with 'no expiration' and 'do not resize my image' set. Then, copy the `direct link` from there and replace `<screenshot link>` with it.
 
 ### Checklist:
 Please tick all the boxes that are fulfilled by your Pull Request.
