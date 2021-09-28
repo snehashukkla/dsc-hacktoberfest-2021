@@ -16,6 +16,4 @@ To qualify for the official limited edition Hacktoberfest shirt, you must regist
 ## How to contribute
 Submit your pull request here for Hacktoberfest-2021 in any language you prefer, if language folder not present, create one as a part of it, after script add your name and GitHub profile into Contributors.md file.
 
-## Support
-
-Check [Contribution](/CONTRIBUTION.md) Guide Before Contribution.
+Check the [Contribution](/CONTRIBUTING.md) guide to find out how to start contribution and other guidelines.
