@@ -4,7 +4,7 @@ Repository designed for beginner to contribute to open-source
 
 
 ## What is Hacktoberfest?
-Hacktoberfest is a month long virtual festival event to celebrate open source contributions presented by DigitalOcean and DEV. It is the easiest way to get into open source!
+Hacktoberfest is a month long virtual festival event to celebrate open source contributions presented by DigitalOcean. It is the easiest way to get into open source!
 
 ![Capture](https://user-images.githubusercontent.com/55937303/134947263-53b4184a-1090-4fd7-89c4-865952353d06.PNG)
 You can learn more about Hacktoberfest [here!](https://hacktoberfest.digitalocean.com/)
