@@ -1,14 +1,14 @@
 ---
 name: New Coding Problem
 about: Add a new coding problem
-title: Problem Id - Problem Title (Language)
+title: Problem Title
 labels: hacktoberfest
 assignees: ''
 
 ---
 
 **Title**: < problem title >
-**Language**: < programming language >
+**Language**: Any
 
 < problem description >
 
