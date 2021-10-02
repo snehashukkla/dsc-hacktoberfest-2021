@@ -1,25 +1,7 @@
 # Hacktoberfest-2021
-Repository designed for beginners to contribute to open-source 
-
-## Note
-We want to encourage developers to start open-source contributions not only on our repositories but others as well.
-Keeping this in mind we are allowing **only 1 pull request per contributor**.
-
-
-
-## What is Hacktoberfest?
-Hacktoberfest is a month-long virtual festival event to celebrate open source contributions presented by DigitalOcean. It is the easiest way to get into open source!
-
-![Capture](https://user-images.githubusercontent.com/55937303/134947263-53b4184a-1090-4fd7-89c4-865952353d06.PNG)
-You can learn more about Hacktoberfest [here!](https://hacktoberfest.digitalocean.com/)
-
-**Rules** \
-To qualify for the official limited edition Hacktoberfest shirt, you must register and make four pull requests (PRs) between October 1-31 (in any time zone). PRs can be made to any public repository on GitHub/GitLab, which solve the issues labelled as `hacktoberfest`. 
-> Note: If a maintainer reports your pull request as spam or behaviour, not in line with the project’s code of conduct, you will be ineligible to participate. Also, this year, the first 50,000 participants who complete the challenge will earn a T-shirt.
+Repository created for Hacktoberfest event where beginners can learn to contribute to open-source source.
 
 ## How to contribute
-Submit your pull request here for Hacktoberfest-2021 in any language you prefer, if the language folder is not present, create one as a part of it, after the script add your name and GitHub profile into Contributors.md file.
-
 Check the [Contribution](/CONTRIBUTING.md) guide to find out how to start contributing and other guidelines.
 
 ## Contribution Guidelines
