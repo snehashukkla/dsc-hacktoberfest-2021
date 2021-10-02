@@ -1,3 +1,9 @@
+/*
+    @author : Kapil Bhale
+    
+    Assign value of next node to current node and then delete next node.
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
