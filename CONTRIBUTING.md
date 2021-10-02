@@ -2,11 +2,11 @@
 # Contribution Guidelines
 > **Note**: Start working only after you have been assigned the task. Pull requests made to unassigned tasks will be rejected.
 - If you create a new issue, **wait for the maintainers to assign** it to you as well.
-- If directory for your question is not present, create one with the format `Find_Middle_of_Linked_List`.
+- If the directory for your question is not present, create one with the format `Find_Middle_of_Linked_List`.
   - Note the underscores and title case of the words
 - Add your script file inside the question directory and name it as `Firstname_Lastname.extension`
   - Extension can be any language like .c, .cpp, .py, etc.
-  - Make sure the filename is in title case
+  - Make sure the filename is in the title case
   - Add a comment section at the **top** including an explanation for your algorithm
   - Also add the time and space complexities at the top
 - Do not create a script with only a Solution class. Add `boilerplate code` so maintainers can run the code locally.
@@ -32,7 +32,7 @@ After forking, you will see two repositories with the same name 'dsc-hacktoberfe
   - dscvitpune/dsc-hacktoberfest-2021
   - your-username/dsc-hacktoberfest-2021
 
-You can make changes directly to **your** repository i.e. `your-username/dsc-hacktoberfest-2021` but you cannot make changes to **this** repository directly. You can contribute here by submitting your chnages as `pull requests`.
+You can make changes directly to **your** repository i.e. `your-username/dsc-hacktoberfest-2021` but you cannot make changes to **this** repository directly. You can contribute here by submitting your changes as `pull requests`.
 
 
 ### 3. Clone the Repository
@@ -43,7 +43,7 @@ We’ll use the `git clone`  command along with the URL that points to your fork
 
 This URL will consist of your username and it will end with `.git`. The URL will look like this: https://github.com/your-username/dsc-hacktoberfest-2021.git
 
-You can alternatively copy the url by clicking on the green “Code” button from your repository page. Once you click the button, you’ll be able to copy the URL by clicking the binder button next to the URL
+You can alternatively copy the URL by clicking on the green “Code” button from your repository page. Once you click the button, you’ll be able to copy the URL by clicking the binder button next to the URL
 ![Copy the URL using the Code button](https://camo.githubusercontent.com/7874a18f4d58d18ef485cdae8acae5e0591f02c7ed955bb7ad9d111153a20da8/68747470733a2f2f646f63732e6769746875622e636f6d2f6173736574732f696d616765732f68656c702f7265706f7369746f72792f636f64652d627574746f6e2e706e67)
 
 Once we have the URL, we’re ready to clone the repository. To do this, we’ll combine the git clone command with the repository URL from the command line in a terminal window:
@@ -61,7 +61,7 @@ To create your branch, from your terminal window, change your directory so that 
 $ cd dsc-hacktoberfest-2021/
 ````
 
-Now, we’ll create new branch with the git branch command. Make sure you name it descriptively so that others working on the project understand what you are working on.
+Now, we’ll create a new branch with the git branch command. Make sure you name it descriptively so that others working on the project understand what you are working on.
 ````bash
 $ git branch new-branch
 ````
@@ -73,7 +73,7 @@ $ git checkout new-branch
 Switched to branch 'new-branch'
 ````
 
-At this point, you can now modify existing files or add new files to the project on your own branch.
+At this point, you can now modify existing files or add new files to the project on your branch.
 
 #### Make Changes Locally
 
@@ -89,7 +89,7 @@ $ git add .
 
 Next, we’ll want to record the changes that we made to the repository with the git commit command.
 
-*The commit message is an important aspect of your code contribution; it helps the other contributors fully understand the change you have made, why you made it, and how significant it is. Additionally, commit messages provide a historical record of the changes for the project at large, helping future contributors along the way.*
+*The commit message is an important aspect of your code contribution; it helps the other contributors fully understand the change you have made, why you made it, and how significant it is. Additionally, commit messages to provide a historical record of the changes for the project at large, helping future contributors along the way.*
 
 
 If you have a very short message, you can record that with the -m flag and the message in quotes:
@@ -101,7 +101,7 @@ $ git commit -m "Updated Readme.md"
 1 file changed, 1 insertion(+)...
 ````
 
-###### At this point you can use the git push command to push the changes to the current branch of your forked repository:
+###### At this point, you can use the git push command to push the changes to the current branch of your forked repository:
 Example:
 ````bash
 $ git push --set-upstream origin new-branch
@@ -109,7 +109,7 @@ $ git push --set-upstream origin new-branch
 
 ### 5. Update Local Repository
 
-*While working on a project alongside other contributors, it is important for you to keep your local repository up-to-date with the project as you don’t want to make a pull request for code that will cause conflicts. To keep your local copy of the code base updated, you’ll need to sync changes.*
+*While working on a project alongside other contributors, it is important for you to keep your local repository up-to-date with the project as you don’t want to make a pull request for code that will cause conflicts. To keep your local copy of the codebase updated, you’ll need to sync changes.*
 
 We’ll first go over configuring a remote for the fork, then syncing the fork.
 
@@ -121,12 +121,12 @@ Next up, you’ll have to specify a new remote upstream repository for us to syn
 git remote add upstream https://github.com/your-username/dsc-hacktoberfest-2021.git
 ````
 
-In this example, `upstream` is the shortname we have supplied for the remote repository since in terms of Git, “upstream” refers to the repository that you cloned from. If you want to add a remote pointer to the repository of a collaborator, you may want to provide that collaborator’s username or a shortened nickname for the shortname.
+In this example, `upstream` is the short name we have supplied for the remote repository since in terms of Git, “upstream” refers to the repository that you cloned from. If you want to add a remote pointer to the repository of a collaborator, you may want to provide that collaborator’s username or a shortened nickname for the short name.
 
 ### 7. Sync the Fork
 
 Once you have configured a remote that references the upstream and original repository on GitHub, you are ready to sync your fork of the repository to keep it up-to-date.
-To sync your fork, from the directory of your local repository in a terminal window, you’ll have to use the `git fetch` command to fetch the branches along with their respective commits from the upstream repository. Since you used the shortname “upstream” to refer to the upstream repository, you’ll have to pass that to the command:
+To sync your fork, from the directory of your local repository in a terminal window, you’ll have to use the `git fetch` command to fetch the branches along with their respective commits from the upstream repository. Since you used the short name “upstream” to refer to the upstream repository, you’ll have to pass that to the command:
 
 ````bash
 git fetch upstream
@@ -149,7 +149,7 @@ git merge upstream/main
 
 At this point, you are ready to make a pull request to the original repository.
 
-Navigate to your forked repository, and press the “New pull request” button on your left-hand side of your Repo page.
+Navigate to your forked repository, and press the “New pull request” button on the left-hand side of your repository page.
 ![Create a new pull request](https://camo.githubusercontent.com/d5e050413f7273d4fe87ab6d855e810c8002eec2ad2d5e7fd7d4d30c18318412/68747470733a2f2f68656c702e6769746875622e636f6d2f6173736574732f696d616765732f68656c702f70756c6c5f72657175657374732f63686f6f73652d626173652d616e642d636f6d706172652d6272616e636865732e706e67)
 
 ## 🎉 Hurray! 🎉 
